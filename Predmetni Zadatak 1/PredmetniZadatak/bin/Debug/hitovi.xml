@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfHitovi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hitovi>
+    <Slika>SLIKA-PATH</Slika>
+    <Naziv>aaa</Naziv>
+    <Izvodjac>abbbb</Izvodjac>
+    <Duzina>123</Duzina>
+    <DatumObjavljivanja>2021-11-16T12:47:43.6038156+01:00</DatumObjavljivanja>
+    <Opis />
+  </Hitovi>
+  <Hitovi>
+    <Slika>SLIKA-PATH</Slika>
+    <Naziv>dasdsa</Naziv>
+    <Izvodjac>asdsdadas</Izvodjac>
+    <Duzina>12.5</Duzina>
+    <DatumObjavljivanja>2021-11-16T12:51:38.5260216+01:00</DatumObjavljivanja>
+    <Opis />
+  </Hitovi>
+  <Hitovi>
+    <Slika>SLIKA-PATH</Slika>
+    <Naziv>a</Naziv>
+    <Izvodjac>b</Izvodjac>
+    <Duzina>1222</Duzina>
+    <DatumObjavljivanja>2021-11-16T12:51:46.6017992+01:00</DatumObjavljivanja>
+    <Opis />
+  </Hitovi>
+  <Hitovi>
+    <Slika>SLIKA-PATH</Slika>
+    <Naziv>aaaaa</Naziv>
+    <Izvodjac>bbb</Izvodjac>
+    <Duzina>21.8</Duzina>
+    <DatumObjavljivanja>2021-11-16T12:59:24.575703+01:00</DatumObjavljivanja>
+    <Opis />
+  </Hitovi>
+  <Hitovi>
+    <Slika>SLIKA-PATH</Slika>
+    <Naziv>c</Naziv>
+    <Izvodjac>aaa</Izvodjac>
+    <Duzina>21.5</Duzina>
+    <DatumObjavljivanja>2021-11-16T13:00:23.7961249+01:00</DatumObjavljivanja>
+    <Opis />
+  </Hitovi>
+  <Hitovi>
+    <Slika>SLIKA-PATH</Slika>
+    <Naziv>dsasd</Naziv>
+    <Izvodjac>dasdasdas</Izvodjac>
+    <Duzina>21.5</Duzina>
+    <DatumObjavljivanja>2021-11-16T13:12:44.4425536+01:00</DatumObjavljivanja>
+    <Opis />
+  </Hitovi>
+</ArrayOfHitovi>

@@ -1,0 +1,94 @@
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe.config
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.pdb
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.dll
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.pdb
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.AssemblyReference.cache
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.g.cs
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.g.cs
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.g.cs
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.g.cs
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\App.g.cs
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.cache
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.lref
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.baml
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.baml
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.baml
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.baml
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.g.resources
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.Properties.Resources.resources
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.GenerateResource.cache
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.CoreCompileInputs.cache
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.exe
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.pdb
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe.config
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.pdb
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.dll
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.pdb
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csprojAssemblyReference.cache
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.g.cs
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.g.cs
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.g.cs
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\App.g.cs
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.cache
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.lref
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.baml
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.baml
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.baml
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.baml
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.g.resources
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.Properties.Resources.resources
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.GenerateResource.cache
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.CopyComplete
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.exe
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.pdb
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe.config
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.pdb
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.dll
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.pdb
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.AssemblyReference.cache
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.g.cs
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.g.cs
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.g.cs
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.g.cs
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\App.g.cs
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.cache
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.lref
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.baml
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.baml
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.baml
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.baml
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.g.resources
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.Properties.Resources.resources
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.GenerateResource.cache
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.CoreCompileInputs.cache
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.exe
+C:\Users\zdrav\Desktop\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.pdb
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe.config
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.exe
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\PredmetniZadatak.pdb
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.dll
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\bin\Debug\Class.pdb
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.AssemblyReference.cache
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.g.cs
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.g.cs
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.g.cs
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.g.cs
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\App.g.cs
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.cache
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak_MarkupCompile.lref
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\AddWindow.baml
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ChangeWindow.baml
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\MainWindow.baml
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\ReadWindow.baml
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.g.resources
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.Properties.Resources.resources
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.GenerateResource.cache
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.CoreCompileInputs.cache
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.csproj.CopyComplete
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.exe
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\PredmetniZadatak\obj\Debug\PredmetniZadatak.pdb

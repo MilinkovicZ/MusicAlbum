@@ -1,0 +1,17 @@
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\Class\bin\Debug\Class.dll
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\Class\bin\Debug\Class.pdb
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\Class\obj\Debug\Class.dll
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\Class\obj\Debug\Class.pdb
+D:\Zdravko\Faks\Interakcija covek racunar\Vezbe\Predmetni Zadatak 1\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\Class\bin\Debug\Class.dll
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\Class\bin\Debug\Class.pdb
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\Class\obj\Debug\Class.dll
+C:\Users\Zdravko\Desktop\HCI Projekat\Predmetni Zadatak 1\Class\obj\Debug\Class.pdb
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\Class\bin\Debug\Class.dll
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\Class\bin\Debug\Class.pdb
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\Class\obj\Debug\Class.dll
+C:\Users\zdrav\Desktop\Faks\3 Godina\1 semestar\Interakcija covek racunar\HCI Projekat\Predmetni Zadatak 1\Class\obj\Debug\Class.pdb
