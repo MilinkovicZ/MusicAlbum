@@ -1,2 +1,2 @@
 # MusicAlbum
-Application created using WPF and .NET Framework
+MVC Application created using WPF and .NET Framework
